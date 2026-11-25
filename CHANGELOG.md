@@ -5,6 +5,9 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/) and 
 
 ## [Unreleased]
 
+### Changed
+- CI: `actions/checkout@v5` and `actions/setup-node@v5` (GitHub is retiring the Node 20 action runtime).
+
 ## [1.0.0] - 2026-11-25
 
 ### Added
