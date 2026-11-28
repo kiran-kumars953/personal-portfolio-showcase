@@ -45,6 +45,12 @@ flowchart LR
 
 ## Tech stack
 
+<table align="center">
+<tr><td><b>UI</b></td><td><table><tr><td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="40" height="40" alt="React"/><br/>React</td><td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite&theme=dark" width="40" height="40" alt="Vite"/><br/>Vite</td><td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" width="40" height="40" alt="Tailwind"/><br/>Tailwind</td><td align="center" width="80"><img src="https://raw.githubusercontent.com/kiran-kumars953/kiran-kumars953/main/assets/icon-framer-motion.svg" width="40" height="40" alt="Framer Motion"/><br/>Framer Motion</td><td align="center" width="80"><img src="https://raw.githubusercontent.com/kiran-kumars953/kiran-kumars953/main/assets/icon-aos.svg" width="40" height="40" alt="AOS"/><br/>AOS</td></tr></table></td></tr>
+<tr><td><b>Edge / Email</b></td><td><table><tr><td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=workers&theme=dark" width="40" height="40" alt="Cloudflare Workers"/><br/>Cloudflare Workers</td><td align="center" width="80"><img src="https://raw.githubusercontent.com/kiran-kumars953/kiran-kumars953/main/assets/icon-web3forms.svg" width="40" height="40" alt="Web3Forms"/><br/>Web3Forms</td></tr></table></td></tr>
+<tr><td><b>Quality</b></td><td><table><tr><td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=eslint&theme=dark" width="40" height="40" alt="ESLint"/><br/>ESLint</td><td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=vitest&theme=dark" width="40" height="40" alt="Vitest"/><br/>Vitest</td><td align="center" width="80"><img src="https://go-skill-icons.vercel.app/api/icons?i=githubactions&theme=dark" width="40" height="40" alt="GitHub Actions"/><br/>GitHub Actions</td></tr></table></td></tr>
+</table>
+
 | Area | Tech |
 |---|---|
 | UI | React 19, Vite, Tailwind CSS 4, Framer Motion, AOS |
