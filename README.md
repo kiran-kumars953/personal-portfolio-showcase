@@ -7,10 +7,9 @@
 [![CI](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml/badge.svg)](https://github.com/kiran-kumars953/personal-portfolio-showcase/actions/workflows/ci.yml)
 [![Live](https://img.shields.io/badge/Live-me.nmstudios.ai-4ade80?logo=cloudflare&logoColor=white)](https://me.nmstudios.ai)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-![React](https://img.shields.io/badge/React_19-61DAFB?logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS_4-06B6D4?logo=tailwindcss&logoColor=white)
-![Cloudflare Workers](https://img.shields.io/badge/Cloudflare_Workers-F38020?logo=cloudflare&logoColor=white)
+
+<table align="center"><tr><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=react&theme=dark" width="32" height="32" alt="React"/><br/><sub>React</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=vite&theme=dark" width="32" height="32" alt="Vite"/><br/><sub>Vite</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwind&theme=dark" width="32" height="32" alt="Tailwind"/><br/><sub>Tailwind</sub></td><td align="center" width="72"><img src="https://go-skill-icons.vercel.app/api/icons?i=workers&theme=dark" width="32" height="32" alt="Cloudflare Workers"/><br/><sub>Cloudflare Workers</sub></td></tr></table>
+
 
 </div>
 
